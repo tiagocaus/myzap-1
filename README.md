@@ -42,6 +42,9 @@ Temos alguns COLABORADORES que prestam suporte, caso precise entre em contato co
 
 - Execute este comando em um novo servidor Ubuntu 20x com pelo menos 2 GB de RAM
 
+# Firewall
+`sudo ufw allow 3333`
+
 ## Documentação Postman & Examples: 
 A documentação da API está disponível online [Aqui](https://documenter.getpostman.com/view/11074732/UVkqrZtZ) . Você também pode importar o arquivo de coleção Postman em seu aplicativo Postman alternativamente.
 
