@@ -19,7 +19,7 @@ Este projeto usa como base o [Venom-bot](https://github.com/orkestral/venom) ou 
 `sudo apt install -y git nodejs`
 - para instalar git, nodejs
 
-`git clone https://github.com/billbarsch/myzap.git`
+`git clone https://github.com/billbarsch/myzap.git --branch master`
 
 `cd myzap`
 
